@@ -46,17 +46,18 @@ While developing KisanSeva, our team encountered various challenges, including t
 - Real-time Database
 
 KisanSeva represents a significant step forward in leveraging technology to empower farmers, providing them with the tools and insights needed to thrive in an ever-evolving agricultural landscape. With its comprehensive features and intuitive interface, KisanSeva stands as a testament to our commitment to revolutionize the farming industry and improve the livelihoods of farmers worldwide.
-### Screenshots/Demo Video
 
+### Screenshots
 
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/s.jpg" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/master/s.jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/IMG_20210421_083435.jpg" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/IMG_20210421_083435.jpg" width="250" title="hover text">
-https://github.com/Andriyas05/KisanSeva-Final/blob/main/IMG_20210421_083435.jpg
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/s.png" width="250" title="hover text">
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/s%20(1).jpg" width="250" title="hover text">
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/IMG_20210421_084044.jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/s.png" width="250" title="hover text">
+
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/s%20(1).jpg" width="250" title="hover text">
+
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/IMG_20210421_084044.jpg" width="250" title="hover text">
 
 
 # How to Run the Flutter Application
