@@ -52,10 +52,11 @@ KisanSeva represents a significant step forward in leveraging technology to empo
 
 <img src="https://github.com/Andriyas05/KisanSeva-Final/blob/master/s.jpg" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/master/IMG_20210421_083435.jpg" width="250" title="hover text">
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/master/s.png" width="250" title="hover text">
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/master/s%20(1).jpg" width="250" title="hover text">
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/master/IMG_20210421_084044.jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/IMG_20210421_083435.jpg" width="250" title="hover text">
+https://github.com/Andriyas05/KisanSeva-Final/blob/main/IMG_20210421_083435.jpg
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/s.png" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/s%20(1).jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/IMG_20210421_084044.jpg" width="250" title="hover text">
 
 
 # How to Run the Flutter Application
