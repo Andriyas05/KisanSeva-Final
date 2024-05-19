@@ -2,6 +2,10 @@
 
 KisanSeva is a revolutionary Flutter application designed specifically for farmers, integrating cutting-edge Machine Learning technologies with a plethora of features to enhance agricultural productivity and efficiency. With a focus on user-friendly design and comprehensive functionality, KisanSeva aims to be the go-to tool for farmers seeking to optimize their farming practices and maximize yields.
 
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/tnnmiYsJUhU/maxresdefault.jpg)](https://youtu.be/tnnmiYsJUhU)
+
+
 ## Features
 
 ### 1. Secure Authentication
